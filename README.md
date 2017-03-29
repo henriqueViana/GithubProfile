@@ -1,4 +1,4 @@
-# Estudos Fornt-end
+# Estudos Front-end
 
 Aplicação que consome dados da API do GitHub a partir do username.
 
