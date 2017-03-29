@@ -3,8 +3,11 @@
 Aplicação que consome dados da API do GitHub a partir do username.
 
 Tecnologias utilizadas:
-	- Pré-processador CSS: Sass
-	- Task-Runner: Grunt
-	- Gerenciador de Pacotes: NPM
-	- Framework JS: React JS
-	- ES6
+
+<ul>
+	<li>Pré-processador CSS: Sass</li>
+	<li>Task-Runner: Grunt</li>
+	<li>Gerenciador de Pacotes: NPM</li>
+	<li>Framework JS: React JS</li>
+	<li>ES6</li>
+</ul>
